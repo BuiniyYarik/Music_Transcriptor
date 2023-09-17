@@ -4,6 +4,8 @@
 
 This GitHub project focuses on the Music Transcription and Instrument Separation using Neural Networks. Our goal is creation of the convenient tool for musicians and composers that allows efficiently process musical compositions for future modifications and performancing.
 
+The project mainly based on the following source: https://rua.ua.es/dspace/bitstream/10045/76991/1/Automatic_music_transcription_using_neural_networks_MINGUEZ_CARRETERO_MANUEL.pdf
+
 
 ## Features
 

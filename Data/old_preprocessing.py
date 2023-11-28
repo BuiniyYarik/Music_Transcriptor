@@ -108,7 +108,7 @@ class DataPreprocessor:
 
             return transformed_signal
 
-        elif self.transform_type == 'cqt':
+        elif self.transform_type == 'cqt_bins_24':
             # Compute the CQT for the entire signal
             cqt_result = np.abs(librosa.cqt(signal, sr=self.fs, hop_length=self.stride, n_bins=self.dim[1]))
 
